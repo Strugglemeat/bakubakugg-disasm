@@ -1,4 +1,4 @@
-# bakugg-disasm
+# bakubakugg-disasm
 dissasembly of Baku Baku Animal for Sega Game Gear 
 
 you'll need wla-z80 and wlalink in the same directory
